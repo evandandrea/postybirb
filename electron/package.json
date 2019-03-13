@@ -54,6 +54,12 @@
         "snap"
       ]
     },
+    "snap": {
+      "plugs": [
+        "default",
+        "network"
+      ]
+    },
     "win": {
       "icon": "icons/icon.ico",
       "target": [
